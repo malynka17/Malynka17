@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning javascript and game dev.
 <!--
 **malynka17/Malynka17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
